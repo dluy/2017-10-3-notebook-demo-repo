@@ -44,4 +44,4 @@ We just built a seet page in this repo. It's called [newbie](newbie.md).
 
 ### images
 
-[AEM cover](2015-AEM-Small.gif)
+![AEM cover](2015-AEM-SMALL.gif)
