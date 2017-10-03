@@ -40,4 +40,4 @@ E = mc<sup>2</sup>
 
 ### links
 
-We just built a seet page in this repo. It's called [newbie] (newbie.md). 
+We just built a seet page in this repo. It's called [newbie](newbie.md). 
